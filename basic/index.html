@@ -6,10 +6,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JS Day 6 Basic </title>
+    <style>
+        div {
+            background: antiquewhite;
+            border-radius: 25px;
+            padding: 20px;
+        }
+    </style>
 </head>
 
 <body>
+    <div id="result"></div>
+    <script>
+        var sandwiches = `{"sandwich": "Hamburger", "calories": "260"}`;
+        var fries = `{ "fries_size": "Large French Fries", "calories": "570" }`;
+        var pizzas = `{ "pizza_size": "medium", "calories": "1601" }`;
 
+        let parsedSandwich = JSON.parse(sandwiches);
+        let parsedFries = JSON.parse(fries);
+        let parsedPizzas = JSON.parse(pizzas);
+
+        document.getElementById("result").innerHTML = `My favourite sandwich is a ${parsedSandwich.sandwich} which has aproximately ${parsedSandwich.calories} calories, Along with it I enjoy eating ${parsedFries.fries_size} which have about ${parsedFries.calories} calories. Sometimes when I don't feel like eating ${parsedSandwich.sandwich} i eat a ${parsedPizzas.pizza_size} pizza which have about ${parsedPizzas.calories} calories.`
+    </script>
 </body>
 
 </html>
