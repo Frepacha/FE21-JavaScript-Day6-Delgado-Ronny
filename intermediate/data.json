@@ -4,68 +4,68 @@ let robots = `[{
     "Last_name": "Pues",
     "Email": "ipues0@cyberchimps.com",
     "Job_Title": "Electrical Engineer",
-    "Salary": 91.04
+    "Salary": 2000.95
 }, {
     "UniqueID": 2,
     "First_name": "Willdon",
     "Last_name": "Hiddy",
     "Email": "whiddy1@cbc.ca",
     "Job_Title": "Research Assistant III",
-    "Salary": 91.99
+    "Salary": 1999.99
 }, {
     "UniqueID": 3,
     "First_name": "Nikos",
     "Last_name": "Cristobal",
     "Email": "ncristobal2@wufoo.com",
     "Job_Title": "Programmer Analyst I",
-    "Salary": 56.45
+    "Salary": 3096.45
 }, {
     "UniqueID": 4,
     "First_name": "Demetris",
     "Last_name": "Larive",
     "Email": "dlarive3@nhs.uk",
     "Job_Title": "General Manager",
-    "Salary": 60.32
+    "Salary": 4500.32
 }, {
     "UniqueID": 5,
     "First_name": "Sharleen",
     "Last_name": "Millbank",
     "Email": "smillbank4@unc.edu",
     "Job_Title": "Sales Associate",
-    "Salary": 26.43
+    "Salary": 1999.43
 }, {
     "UniqueID": 6,
     "First_name": "Babs",
     "Last_name": "Courage",
     "Email": "bcourage5@xing.com",
     "Job_Title": "Occupational Therapist",
-    "Salary": 99.66
+    "Salary": 2000.66
 }, {
     "UniqueID": 7,
     "First_name": "Marcellus",
     "Last_name": "Swynfen",
     "Email": "mswynfen6@harvard.edu",
     "Job_Title": "Recruiter",
-    "Salary": 84.27
+    "Salary": 1900.27
 }, {
     "UniqueID": 8,
     "First_name": "Harlin",
     "Last_name": "Egerton",
     "Email": "hegerton7@imgur.com",
     "Job_Title": "Business Systems Development Analyst",
-    "Salary": 73.69
+    "Salary": 2894.69
 }, {
     "UniqueID": 9,
     "First_name": "Ole",
     "Last_name": "Goreisr",
     "Email": "ogoreisr8@hhs.gov",
     "Job_Title": "Actuary",
-    "Salary": 69.7
+    "Salary": 2100.7
 }, {
     "UniqueID": 10,
     "First_name": "Lemuel",
     "Last_name": "Vertigan",
     "Emails": "lvertigan9@pcworld.com",
     "Job_Title": "Occupational Therapist",
-    "Salary": 61.01
+    "Salary": 2050.01
 }]`
