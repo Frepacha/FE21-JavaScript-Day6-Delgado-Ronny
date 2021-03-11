@@ -1,72 +1,71 @@
-let employees =
-    `[{
-    "Unique ID": 1,
+let robots = `[{
+    "UniqueID": 1,
     "First_name": "Ichabod",
     "Last_name": "Pues",
-    "Email address": "ipues0@cyberchimps.com",
-    "Job Title": "Electrical Engineer",
+    "Email": "ipues0@cyberchimps.com",
+    "Job_Title": "Electrical Engineer",
     "Salary": 91.04
 }, {
-    "Unique ID": 2,
+    "UniqueID": 2,
     "First_name": "Willdon",
     "Last_name": "Hiddy",
-    "Email address": "whiddy1@cbc.ca",
-    "Job Title": "Research Assistant III",
+    "Email": "whiddy1@cbc.ca",
+    "Job_Title": "Research Assistant III",
     "Salary": 91.99
 }, {
-    "Unique ID": 3,
+    "UniqueID": 3,
     "First_name": "Nikos",
     "Last_name": "Cristobal",
-    "Email address": "ncristobal2@wufoo.com",
-    "Job Title": "Programmer Analyst I",
+    "Email": "ncristobal2@wufoo.com",
+    "Job_Title": "Programmer Analyst I",
     "Salary": 56.45
 }, {
-    "Unique ID": 4,
+    "UniqueID": 4,
     "First_name": "Demetris",
     "Last_name": "Larive",
-    "Email address": "dlarive3@nhs.uk",
-    "Job Title": "General Manager",
+    "Email": "dlarive3@nhs.uk",
+    "Job_Title": "General Manager",
     "Salary": 60.32
 }, {
-    "Unique ID": 5,
+    "UniqueID": 5,
     "First_name": "Sharleen",
     "Last_name": "Millbank",
-    "Email address": "smillbank4@unc.edu",
-    "Job Title": "Sales Associate",
+    "Email": "smillbank4@unc.edu",
+    "Job_Title": "Sales Associate",
     "Salary": 26.43
 }, {
-    "Unique ID": 6,
+    "UniqueID": 6,
     "First_name": "Babs",
     "Last_name": "Courage",
-    "Email address": "bcourage5@xing.com",
-    "Job Title": "Occupational Therapist",
+    "Email": "bcourage5@xing.com",
+    "Job_Title": "Occupational Therapist",
     "Salary": 99.66
 }, {
-    "Unique ID": 7,
+    "UniqueID": 7,
     "First_name": "Marcellus",
     "Last_name": "Swynfen",
-    "Email address": "mswynfen6@harvard.edu",
-    "Job Title": "Recruiter",
+    "Email": "mswynfen6@harvard.edu",
+    "Job_Title": "Recruiter",
     "Salary": 84.27
 }, {
-    "Unique ID": 8,
+    "UniqueID": 8,
     "First_name": "Harlin",
     "Last_name": "Egerton",
-    "Email address": "hegerton7@imgur.com",
-    "Job Title": "Business Systems Development Analyst",
+    "Email": "hegerton7@imgur.com",
+    "Job_Title": "Business Systems Development Analyst",
     "Salary": 73.69
 }, {
-    "Unique ID": 9,
+    "UniqueID": 9,
     "First_name": "Ole",
     "Last_name": "Goreisr",
-    "Email address": "ogoreisr8@hhs.gov",
-    "Job Title": "Actuary",
+    "Email": "ogoreisr8@hhs.gov",
+    "Job_Title": "Actuary",
     "Salary": 69.7
 }, {
-    "Unique ID": 10,
+    "UniqueID": 10,
     "First_name": "Lemuel",
     "Last_name": "Vertigan",
-    "Email address": "lvertigan9@pcworld.com",
-    "Job Title": "Occupational Therapist",
+    "Emails": "lvertigan9@pcworld.com",
+    "Job_Title": "Occupational Therapist",
     "Salary": 61.01
 }]`
